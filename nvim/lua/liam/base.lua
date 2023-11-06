@@ -1,0 +1,14 @@
+vim.g.mapleader = " "
+vim.g.maplocaleader = " "
+vim.wo.number = true
+vim.opt.wrap = false -- No Wrap lines
+vim.opt.expandtab = true
+vim.opt.softtabstop =2
+vim.opt.shiftwidth = 2
+vim.opt.tabstop = 2
+vim.opt.termguicolors = true
+vim.opt.filetype = "on"
+vim.g.smartindent = true 
+vim.g.filetype = "on"
+vim.g.autoindent = true
+vim.opt.smartindent = true
